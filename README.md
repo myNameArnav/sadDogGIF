@@ -1,3 +1,3 @@
 # sadDogGIF
 
-[my website](www.arnavjain.xyz) is being redirected to here
+[my website](http://arnavjain.xyz) is being redirected to here
